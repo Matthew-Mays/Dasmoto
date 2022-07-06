@@ -20,8 +20,6 @@ h3 {
     font-weight: bold;
 }
 
-a {
-    font-family: Helvetica;
-    font-weight: bold;
-    color: blue;
+.frame {
+    background-color: lightcoral;
 }
